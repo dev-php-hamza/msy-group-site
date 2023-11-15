@@ -1,0 +1,56 @@
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+#Redirect 301 /About_Us/ /about-us/who-we-are/
+Redirect 301 /About_Us/Key_Facts.aspx /investors/key-facts/
+Redirect 301 /About_Us/Purpose_Vision_and_Values.aspx /about-us/our-purpose/
+Redirect 301 /Board_Members.aspx /about-us/leadership/
+Redirect 301 /About_Us/Executive_Committee.aspx /about-us/leadership/
+Redirect 301 /About_Us/How_We_Do_Business.aspx /about-us/how-we-do-business/
+Redirect 301 /About_Us/History.aspx /about-us/who-we-are/
+Redirect 301 /About_Us/Careers.aspx /careers/
+Redirect 301 /Contact_Us.aspx /contact-us/
+#Redirect 301 /Investors/ /investors/
+Redirect 301 /Annual_Reports.aspx	/investors/reports-and-presentations/annual-reports/
+Redirect 301 /Shareholder_Notices.aspx	/investors/shareholder-center/notices/
+Redirect 301 /Investors/Shareholder_Centre/Forms.aspx	/investors/shareholder-center/forms/
+Redirect 301 /Investors/Shareholder_Centre/FAQs_and_Enquiries.aspx	/investors/shareholder-center/faq/
+Redirect 301 /Quarterly_Financial_Highlights.aspx	/investors/reports-and-presentations/financials/
+Redirect 301 /Investor/Presentations.aspx	/investors/reports-and-presentations/investment-presentation/
+Redirect 301 /Investors/Corporate_Governance.aspx	/investors/corporate-governance/
+Redirect 301 /Investors/Financial_Calendar.aspx	/investors/financial-calendar/
+#Redirect 301 /Our_Business/	/our-business/
+Redirect 301 /Our_Business/Automotive_and_Industrial_Equipment.aspx /our-business/motors-and-machines/
+Redirect 301 /Our_Business/Energy_and_Industrial_Gases.aspx /our-business/gas-products/
+Redirect 301 /Our_Business/Financial_Services.aspx /our-business/financial-services
+Redirect 301 /Our_Business/Retail_and_Distribution.aspx	/our-business/integrated-retail/
+Redirect 301 /Our_Business/Other.aspx	/our-business/strategic-and-other-investments/
+Redirect 301 /News/ /news/
+Redirect 301 /PrivacyPolicy.aspx /about-us/privacy-policy/
+Redirect 301 /Security.aspx	/about-us/security/
+Redirect 301 /Community/Massy_Foundation/Funding.aspx	/about-us/massy-foundation/
+Redirect 301 /Community/Corporate_Social_Responsibility/Corporate_Sponsorship.aspx	/about-us/massy-foundation/
+Redirect 301 /Community/Massy_Foundation/Annual_Grants.aspx	/about-us/massy-foundation/
+Redirect 301 /Community/Massy_Foundation/History_and_Governance.aspx	/about-us/massy-foundation/
+Redirect 301 /Community/Massy_Foundation/About_the_Foundation.aspx	/about-us/massy-foundation/
+Redirect 301 /About_Us/ /about-us/who-we-are/
+Redirect 301 /Investors/ /investors/
+Redirect 301 /Our_Business/    /our-business/
+Redirect 301 /news-item/pre-register-for-the-agm-here/ /pre-registration-for-the-agm/
+
+</IfModule>

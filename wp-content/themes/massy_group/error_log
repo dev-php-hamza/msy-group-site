@@ -1,0 +1,60 @@
+[10-Jun-2021 00:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[10-Jun-2021 12:33:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[11-Jun-2021 00:45:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[11-Jun-2021 12:56:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[12-Jun-2021 01:02:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[12-Jun-2021 13:11:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[13-Jun-2021 01:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[13-Jun-2021 13:23:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[14-Jun-2021 01:31:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[14-Jun-2021 07:23:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[14-Jun-2021 19:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[15-Jun-2021 07:35:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[15-Jun-2021 19:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[16-Jun-2021 07:52:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
+[16-Jun-2021 20:04:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/massygroup/public_html/wp-content/themes/massy_group/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/massygroup/public_html/wp-content/themes/massy_group/index.php on line 17
